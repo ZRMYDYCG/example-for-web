@@ -1,0 +1,10 @@
+{
+  "name": "@packages/shared",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('shared build placeholder')\"",
+    "lint": "node -e \"console.log('shared lint placeholder')\"",
+    "typecheck": "node -e \"console.log('shared typecheck placeholder')\""
+  }
+}
